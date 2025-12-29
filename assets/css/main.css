@@ -1,5 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
+
 /*
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
@@ -116,7 +116,7 @@ a {
   text-decoration: none; }
   a:hover {
     border-bottom-color: #ffffff;
-    color: #000000 !important; }
+    color: #ff5c5c !important; }
     a:hover strong {
       color: inherit; }
 
@@ -142,7 +142,7 @@ h1, h2, h3, h4, h5, h6 {
     border-bottom: 0; }
 
 h1 {
-  font-size: 2.5em;
+  font-size: 4em;
   margin: 0 0 0.5em 0;
   line-height: 1.3; }
 
@@ -2087,7 +2087,7 @@ button,
   #header .logo {
     border-bottom: 0;
     color: inherit;
-    font-family: "Roboto Slab", serif;
+    font-family: "Roboto", serif;
     font-size: 1.125em; }
   #header .icons {
     text-align: right; }
