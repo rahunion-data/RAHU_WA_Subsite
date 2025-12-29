@@ -116,7 +116,7 @@ a {
   text-decoration: none; }
   a:hover {
     border-bottom-color: #ffffff;
-    color: #ff5c5c !important; }
+    color: #000000 !important; }
     a:hover strong {
       color: inherit; }
 
@@ -1584,7 +1584,11 @@ button,
 .mini-posts article {
   border-top: solid 3px #f56a6a;
   margin-top: 2em;
-  padding-top: 2em; }
+  padding-top: 2em; 
+  b {
+    color: #000000;
+  } 
+}
   .mini-posts article .image {
     display: block;
     margin: 0 0 1.5em 0; }
@@ -2087,7 +2091,7 @@ button,
   #header .logo {
     border-bottom: 0;
     color: inherit;
-    font-family: "Roboto", serif;
+    font-family: "Roboto";
     font-size: 1.125em; }
   #header .icons {
     text-align: right; }
